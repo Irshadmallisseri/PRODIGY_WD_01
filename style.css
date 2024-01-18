@@ -1,5 +1,5 @@
 .welcomeSection {
-    background-image: url('welcomeBg.jpg');
+    background-image: url('images/welcomeBg.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -21,7 +21,7 @@
 }
 
 .featuresSection, .contactusSection{
-    background-image: url('welcomeBg.jpg');
+    background-image: url('images/welcomeBg.jpg');
     background-size: cover;
     background-position: center;
 }
