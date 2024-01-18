@@ -1,0 +1,27 @@
+.welcomeSection {
+    background-image: url('welcomeBg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.welcomeTxt{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.quoteFromAnnie{
+    font-family: 'Playfair Display SC', serif;
+}
+
+.card{
+    background-color: #aed7ff;
+}
+
+.productSection, .storySection{
+    background-color: gray;
+}
+
+.featuresSection, .contactusSection{
+    background-image: url('welcomeBg.jpg');
+    background-size: cover;
+    background-position: center;
+}
